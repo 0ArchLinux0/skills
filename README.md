@@ -23,6 +23,7 @@ npx skills add elevenlabs/skills
 | [voice-changer](./voice-changer) | Transform the voice in an audio recording into a different target voice (speech-to-speech) |
 | [voice-isolator](./voice-isolator) | Remove background noise and isolate vocals/speech from audio |
 | [dubbing](./dubbing) | Dub audio/video into other languages while preserving the original speakers' voices |
+| [tts-math-lecture](./tts-math-lecture) | Narrate math/technical lectures with equations: segment splitting, break budgets, per-segment speeds, spoken-math normalization |
 | [setup-api-key](./setup-api-key) | Guide through obtaining and configuring an ElevenLabs API key |
 
 ## Configuration
